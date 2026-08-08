@@ -1,0 +1,3 @@
+caspian-sdk
+razorpay
+requests
